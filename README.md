@@ -1,5 +1,5 @@
 # DarkFlameUniverseServerDocker
-Docker for Dark Flame Universe Server (Lego Universe)
+Unofficial Docker for Dark Flame Universe Server (Lego Universe)
 
 
 Based off of:
